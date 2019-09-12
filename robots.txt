@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oitaereizu.bjjworldclan.com/sitemap.xml
